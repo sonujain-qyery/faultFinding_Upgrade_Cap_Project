@@ -101,7 +101,7 @@ faultyFinding/
 │ │ ├── VGG16_FeedbackLoop.ipynb  
 │ │ └── VGG16_modeltest_withrandomsamples.ipynb  
 │ └── XGB Model  
-│ ├── RESENT50_XGB  
+│ ├── RESENT50_XGB[**This the final model considered due to high performance accuracy**]   
 │ │ ├── resnet50_xgb_model_test_with_some_samples.ipynb  
 │ │ ├── resnet50_xgb_datapreprocessing_feature_eng.ipynb  
 │ │ ├── resnet50_xgb_evalution.ipynb  
