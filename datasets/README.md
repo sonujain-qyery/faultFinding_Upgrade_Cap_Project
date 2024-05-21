@@ -72,6 +72,8 @@
     We extracted and the final data in Digital images of defective and good condition tyres
     this have two folders - Defective and Good which will be the classes of traning the model.
 
+    ** When we executed EDA file the data will downloaded and extracted with the help of tensorflow get file util, i can't upload the data due to large volume**
+
 ## Processed data :
     The processed data is basiclly in the form of tensor object and pkl files.
     We have 5 differnt processed data
@@ -80,6 +82,11 @@
     3. VGG16 Data - which is processed by VGG16 libraries
     4. RESNET50 Data - which is processed by resnet libraries
     5. For ML algos wehave common data rescaled and processed by HOG.
+
+    ![image](https://github.com/sonujain-qyery/faultFinding_Upgrade_Cap_Project/assets/145376236/2f543839-8924-4c53-a380-e2ead8f338e4)
+
+    **The Tensorflow processed data size is more than git limit 100 mb due to that I can't upload the tensor processed data**
+
 
 
 ## Randome Sample Data :
