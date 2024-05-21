@@ -8,6 +8,9 @@ The objective of this project is to develop an intelligent system using deep lea
 
 Upgrade is the data source of Fault finding of Tyres Images.
 
+url = "https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/Faultfindy.zip"
+
+
 ## Installation Instructions
 
 Below are the software should be installed on your machine to utilize this project. Use pip install command to install required libraries.
